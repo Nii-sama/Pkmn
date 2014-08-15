@@ -48,3 +48,6 @@ pip-log.txt
 "public/uploads" 
 "tmp" 
 "logs" 
+"public/uploads" 
+"tmp" 
+"logs" 
